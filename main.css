@@ -11,12 +11,13 @@ body {
 /* Changes the font size of the body to large */
 
 body {
-  font-style: small-caps;
+  font-variant: small-caps;
 }
 /* Changes the font style of the body to small-caps */
 
 h1 {
   color: SteelBlue
+    font-style: oblique 
 }
 /* Changes the color of h1 to SteelBlue */
 
