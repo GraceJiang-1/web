@@ -6,32 +6,32 @@
 */ 
 
 h1 {
-  color: SteelBlue
   font-family: Times New Roman;
+    color: SteelBlue
 }
 /* This changes the color of h1 to SteelBlue and the font to Times New Roman*/
 
 h2 {
-  color: Maroon
   font-family: Times New Roman;
+    color: Maroon
 }
 /* This changes the color of h2 to Maroon and the font to Times New Roman */ 
 
 h3 {
-  color: Orange
   font-family: Times New Roman;
+    color: Orange
 }
 /* This changes the color of h3 to Orange and the font to Times New Roman */
 
 p {
-  color: DarkSlateGrey;
   font-family: "Optima", sans-serif;
+   color: DarkSlateGrey;
 }
 /* This changes the text surrounded by <p> tags to DarkSlateGrey and the font family to "Optima", sans-serif. */
 
 li {
-  color: DarkSlateGrey
-  font-family: "Optima", sans-serif;
+  font-family: "Optima", sans-serif
+    color: DarkSlateGrey
 }
 /* This changes the color of the text surrounded by <li> tags to DarkSlateGrey and the font-family to "Optima", sans-serif. */
 
