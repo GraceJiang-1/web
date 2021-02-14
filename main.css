@@ -5,21 +5,29 @@
   2021-02-13
 */ 
 
+body {
+  font-size: large;
+  background-color: Snow;
+  border-color: Maroon;
+  border-style: double; 
+}
+/* This changes the font size of the body to large. This changes the background color of the text surrounded by the <body> tags to the color Snow, and the border style is double. */
+
 h1 {
   font-family: Times New Roman;
-    color: SteelBlue
+    color: SteelBlue;
 }
 /* This changes the color of h1 to SteelBlue and the font to Times New Roman*/
 
 h2 {
   font-family: Times New Roman;
-    color: Maroon
+    color: Maroon;
 }
 /* This changes the color of h2 to Maroon and the font to Times New Roman */ 
 
 h3 {
   font-family: Times New Roman;
-    color: Orange
+    color: Orange;
 }
 /* This changes the color of h3 to Orange and the font to Times New Roman */
 
@@ -30,14 +38,7 @@ p {
 /* This changes the text surrounded by <p> tags to DarkSlateGrey and the font family to "Optima", sans-serif. */
 
 li {
-  font-family: "Optima", sans-serif
-    color: DarkSlateGrey
+  font-family: "Optima", sans-serif;
+    color: DarkSlateGrey;
 }
 /* This changes the color of the text surrounded by <li> tags to DarkSlateGrey and the font-family to "Optima", sans-serif. */
-
-body {
-  font-size: large;
-  background-color: Snow
-  border-style: double;
-}
-/* This changes the font size of the body to large. This changes the background color of the text surrounded by the <body> tags to the color Snow, and the border style is double. */
