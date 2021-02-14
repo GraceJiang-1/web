@@ -5,19 +5,12 @@
   2021-02-13
 */ 
 
-body {
-  font-size: large;
-  background-color: Snow;
-  border-color: Maroon;
-  border-style: double; 
-}
-/* This changes the font size of the body to large. This changes the background color of the text surrounded by the <body> tags to the color Snow, and the border style is double. */
-
 h1 {
   font-family: Times New Roman;
     color: SteelBlue;
+    text-shadow: LightSteelBlue;
 }
-/* This changes the color of h1 to SteelBlue and the font to Times New Roman*/
+/* This changes the color of h1 to SteelBlue and the font to Times New Roman. The shadow will be the color LightSteelBlue. */
 
 h2 {
   font-family: Times New Roman;
@@ -42,3 +35,11 @@ li {
     color: DarkSlateGrey;
 }
 /* This changes the color of the text surrounded by <li> tags to the color DarkSlateGrey and the font-family to "Optima", sans-serif. */
+
+body {
+  font-size: large;
+  background-color: Snow;
+  border-color: Maroon;
+  border-style: double; 
+}
+/* This changes the font size of the body to large. This changes the background color of the text surrounded by the <body> tags to the color Snow, and the border style is double. */
