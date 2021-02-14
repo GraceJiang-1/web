@@ -1,0 +1,39 @@
+/*
+  Grace Jiang
+  IntroCS Pd05 Sec08
+  HW05 -- Stuylin'
+  2021-02-13
+*/ 
+
+body {
+  font-size: large;
+}
+
+body {
+  font-style: small-caps;
+}
+
+h1 {
+  color: SteelBlue
+}
+
+h2 {
+  color: SlateGrey
+}
+
+h3 {
+  color: LemonChiffon
+}
+
+p {
+  color: DarkSlateGrey;
+}
+
+body {
+  background-color: Snow
+}
+
+body {
+  border-style: double;
+}
+
