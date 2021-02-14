@@ -37,12 +37,6 @@ p {
 }
 /* This changes the text surrounded by <p> tags to the color DarkSlateGrey and the font family to "Optima", sans-serif. */
 
-ul {
-  font-family: "Optima", sans-serif;
-    color: DarkSlateGrey;
-} 
-/* This changes the text surrounded by <ul> tags to the color DarkSlateGrey and the font to "Optima", sans-serif. */
-
 li {
   font-family: "Optima", sans-serif;
     color: DarkSlateGrey;
