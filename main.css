@@ -7,8 +7,8 @@
 
 h1 {
   font-family: Times New Roman;
-    color: LightSkyBlue;
-    text-shadow: 2px 2px SteelBlue;
+    color: SteelBlue;
+    text-shadow: 2px 2px LightBlue;
 }
 /* This changes the color of h1 to SteelBlue and the font to Times New Roman. The shadow will be the color LightSteelBlue. */
 
