@@ -8,32 +8,39 @@
 body {
   font-size: large;
 }
+/* Changes the font size of the body to large */
 
 body {
   font-style: small-caps;
 }
+/* Changes the font style of the body to small-caps */
 
 h1 {
   color: SteelBlue
 }
+/* Changes the color of h1 to SteelBlue */
 
 h2 {
   color: Maroon
 }
+/* Changes the color of h2 to Maroon */ 
 
 h3 {
   color: Orange
 }
+/* Changes the color of h3 to Orange */
 
 p {
   color: DarkSlateGrey;
 }
+/* Changes the color of the paragraphs to DarkSlateGrey */
 
 body {
   background-color: Snow
 }
+/* Changes the background to the color Snow */
 
 body {
   border-style: double;
 }
-
+/* Adds a double border to the page */ 
